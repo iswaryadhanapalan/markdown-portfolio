@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+list of my favorite things:
+- cat
+- dog
+- lion
+- cow
+- monkey
+- horse
+- snake
+- penguin
